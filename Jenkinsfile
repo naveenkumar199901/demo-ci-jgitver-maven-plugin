@@ -24,3 +24,4 @@ node() {
         bat "${mvnHome}\\bin\\mvn -DskipTests install"
     }
 }
+
